@@ -1,6 +1,6 @@
 
 #En este tratamos introducción a la relatividad especial
-# Paritcularmente queremos conocer la dilatación del tiempo
+# Particularmente queremos conocer la dilatación del tiempo.
 
 # Una nave viaja de la tierra en linea recta a una velocidad relativa v hacia otro planeta que esa a x años luz
 #de distancia.
