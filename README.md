@@ -1,4 +1,4 @@
-# Dilataciòn temporal.
+# Dilatación temporal.
 Código para calcular la dilatación temporal.
 
 En este tratamos introducción a la relatividad especial particularmente queremos conocer la dilatación del tiempo.
